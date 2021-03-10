@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springcloud_common_pojo/springcloud_common_pojo.iml" filepath="$PROJECT_DIR$/springcloud_common_pojo/springcloud_common_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_eureka_consumer/springcloud_eureka_consumer.iml" filepath="$PROJECT_DIR$/springcloud_eureka_consumer/springcloud_eureka_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_eureka_provider/springcloud_eureka_provider.iml" filepath="$PROJECT_DIR$/springcloud_eureka_provider/springcloud_eureka_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_eureka_provider2/springcloud_eureka_provider2.iml" filepath="$PROJECT_DIR$/springcloud_eureka_provider2/springcloud_eureka_provider2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_eureka_server/springcloud_eureka_server.iml" filepath="$PROJECT_DIR$/springcloud_eureka_server/springcloud_eureka_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_feign_api/springcloud_feign_api.iml" filepath="$PROJECT_DIR$/springcloud_feign_api/springcloud_feign_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_zuul/springcloud_zuul.iml" filepath="$PROJECT_DIR$/springcloud_zuul/springcloud_zuul.iml" />
+    </modules>
+  </component>
+</project>

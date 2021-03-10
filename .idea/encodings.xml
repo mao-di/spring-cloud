@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/springcloud_common_pojo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_eureka_consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_eureka_provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_eureka_provider2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_eureka_server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_feign_api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_zuul/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

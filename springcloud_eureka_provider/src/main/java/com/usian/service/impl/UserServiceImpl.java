@@ -1,8 +1,13 @@
 package com.usian.service.impl;
 
+import com.netflix.discovery.converters.Auto;
+import com.usian.mapper.UserMapper;
 import com.usian.pojo.User;
 import com.usian.service.UserService;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
+import java.util.List;
 
 /**
  * ClassName:UserServiceImpl
@@ -11,9 +16,17 @@ import org.springframework.stereotype.Service;
  */
 @Service
 public class UserServiceImpl implements UserService {
+    @Autowired
+    UserMapper userMapper;
+
 
     @Override
     public User getUser(Integer id) {
-        return new User(id,"王粪堆",18);
+       return userMapper.getUserById(id);
+    }
+
+    @Override
+    public List<User> getUser() {
+        return userMapper.getAll();
     }
 }
