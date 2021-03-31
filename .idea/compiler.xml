@@ -6,7 +6,6 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springcloud_eureka_provider2" />
         <module name="springcloud_zuul" />
         <module name="springcloud_feign_api" />
         <module name="springcloud_common_pojo" />
